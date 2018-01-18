@@ -1,0 +1,10 @@
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\bin\Debug\WhoAreYou.exe.config
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\bin\Debug\WhoAreYou.exe
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\bin\Debug\WhoAreYou.pdb
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\bin\Debug\WhoAreYou.xml
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\obj\Debug\WhoAreYou.Form1.resources
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\obj\Debug\WhoAreYou.Resources.resources
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\obj\Debug\WhoAreYou.vbproj.GenerateResource.Cache
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\obj\Debug\WhoAreYou.exe
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\obj\Debug\WhoAreYou.xml
+c:\users\localhost\documents\visual studio 2013\Projects\WhoAreYou\WhoAreYou\obj\Debug\WhoAreYou.pdb
